@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cyber-Prajwal
 - 👀 I’m interested in python, django, tkinter, kivy, pytorch and rest all the things U can do with python, also CYBERSECURITY, ETHICAL hacking , bug bounty hunting is something that I definitely wanna learn
-- 🌱 I’m currently learning python ,DSA ,Django & Kivy
+- 🌱 I’m currently learning python ,DSA ,Django & cybersec using python 
 - 💞️ I’m looking to collaborate on anything I can help with
 - 📫 Reach me at prajwalbang2020@gmail.com or my IG: perky_prajwal[https://instagram.com/perky_prajwal?igshid=jmqcbxsf1hlj], or on twitter: @PrajwalBang [https://twitter.com/PrajwalBang?s=09]
 <!---
