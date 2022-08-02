@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything I can help with
 - 🙌 I will try my best to keep great repos😙😉.
 - 📫 Reach me at prajwalbang2020@gmail.com 
-  or on my IG: perky_prajwal[https://instagram.com/perky_prajwal?igshid=jmqcbxsf1hlj], 
+  .. or on my IG: perky_prajwal[https://instagram.com/perky_prajwal?igshid=jmqcbxsf1hlj], 
   or on twitter: @PrajwalBang [https://twitter.com/PrajwalBang?s=09] 
   or on my linkedin:[www.linkedin.com/in/prajwal-bang] 
   or on my showcase:[https://www.showwcase.com/cyber-prajwal560]
