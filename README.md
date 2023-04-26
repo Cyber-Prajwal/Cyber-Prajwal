@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cyber-Prajwal
 - 🤖 I am currently learning App Development using Dart & Flutter 
-- 👀 I’m really into Pyhton and All of it's possibilities.  
+- 👀 I’m really into Python and All of it's possibilities.  
 - 💞️ I’m looking to collaborate on anything I can help with
 - 🙌 I will try my best to keep great repos😙😉.
 - 📫 Reach me at prajwalbang2020@gmail.com 
