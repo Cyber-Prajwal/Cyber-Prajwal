@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Cyber-Prajwal
-- 🤖 I am currently learning App Development using Dart & Flutter 
+- 🤖 I am currently learning Data Analysis.
 - 👀 I’m really into Python🐍 and All of it's possibilities.  
 - 💞️ I’m looking to collaborate on anything I can help with
 - 🙌 I will try my best to keep great repos😙😉.
